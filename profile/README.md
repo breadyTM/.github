@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  (https://github.com/Tineke-Sieders-Company/tinekesieders.nl)**
+  (https://github.com/Tineke-Sieders-Company/tinekesieders.nl)
 </p>
 
 <p align="left">
