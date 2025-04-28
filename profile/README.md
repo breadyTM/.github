@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **I created this organization so i can switch projects im not actively updating to here.**
+  🚽 Info: **I created this organization so i can switch projects im not actively updating to here.**
 </p>
 
 <p align="left">
