@@ -10,7 +10,11 @@
 </p>
 
 <p align="left">
-  💼 Currect Project: **A Cookie Clicker remake of a classmates grandma called Tineke [Sieders](https://github.com/Tineke-Sieders-Company/milf.tinekesieders.nl)**
+  💼 Currect Project: **A Cookie Clicker remake of a classmates grandma called Tineke Sieders, you can check the link below**
+</p>
+
+<p align="left">
+  (https://github.com/Tineke-Sieders-Company/milf.tinekesieders.nl)**
 </p>
 
 <p align="left">
