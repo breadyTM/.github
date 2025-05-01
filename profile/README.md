@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🚽 Info: **I created this organization so i can switch projects im not actively updating to here.**
+  🚽 Info: I created this organization so i can switch projects im not actively updating to here.
 </p>
 
 <p align="left">
-  💼 Currect Project: **A Cookie Clicker remake of a classmates grandma called Tineke Sieders, you can check the link below**
+  💼 Currect Project: A Cookie Clicker remake of a classmates grandma called Tineke Sieders, you can check the link below
 </p>
 
 <p align="left">
